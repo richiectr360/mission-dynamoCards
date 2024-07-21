@@ -1,3 +1,8 @@
+#uvicorn main:app --reload
+# IP Address/docs
+
+#IAMADMIN - Service
+
 from fastapi import FastAPI
 from pydantic import BaseModel, HttpUrl
 from fastapi.middleware.cors import CORSMiddleware
@@ -24,7 +29,7 @@ app.add_middleware(
 
 genai_processor = GeminiProcessor(
         model_name = "gemini-pro",
-        project = "ai-dev-cqc-q1-2024"
+        project = "sample-mission-429500"
     )
 
 @app.post("/analyze_video")

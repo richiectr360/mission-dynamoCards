@@ -28,7 +28,7 @@ class GeminiProcessor:
         
         return chain.run(documents)
     
-    def count_total_tokens(self, docs: list):
+    def count_total_as(self, docs: list):
         temp_model = GenerativeModel("gemini-1.0-pro")
         total = 0
         logger.info("Counting total billable characters...")
