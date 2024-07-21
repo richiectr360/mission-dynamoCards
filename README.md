@@ -1,5 +1,7 @@
 # Gemini Dynamo
 
+Link: https://kai.radicalai.app/
+
 ## Project Overview
 
 Gemini Dynamo is one of the two products of Kai. Another product called Quizzify helps to generate cards from a PDF file. For Dynamo, we focus on extracting contents from a YouTube video.
