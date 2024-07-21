@@ -11,8 +11,8 @@ Gemini Dynamo is a backend service designed to assist with studying by generatin
 The link is from Stanford University's Machine Learning course.
 
 ![Typing a YouTube Link](shots/link.png)
-![Generated Flashcards](shots/card1.png)
-![Generated Flashcards](shots/card2.png)
+![Generated Flashcards](shots/card_1.png)
+![Generated Flashcards](shots/card_2.png)
 
 ### Architecture of Kai AI
 
